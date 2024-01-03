@@ -5,7 +5,7 @@ I'm a Full Stack Developer based in captivating Cape Town. My coding odyssey beg
 Beyond coding, I find solace in the realm of gaming 🎮 and share an equal adoration for our feline and canine companions 🐶🩵😺. 
 
 ## 👩🏼‍💻 My Expertise
-Within the wide breadth of the software industry, I chose to focus on web development because it's a ubiquitous, accessible, and powerful platform. Additionally, Database Administration, Design, and Data Visualization have captured my interest. I currently specialize in the JavaScript programming language and have experience with the following technologies:
+Within the wide breadth of the software industry, I chose to focus on web development because it's a ubiquitous, accessible, and powerful platform. Additionally, Database Administration & Design, and Data Visualization have captured my interest. I currently specialize in the JavaScript programming language and have experience with the following technologies:
 
 | Frontend        | Backend    | Database   |
 | --------------- | ---------- | ---------- |
