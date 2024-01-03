@@ -15,6 +15,8 @@ Within the wide breadth of the software industry, I chose to focus on web develo
 | CSS3            |            |            |
 | Bootstrap       |            |
 
+<div></div>
+
 ## 🏆 Projects
 My GitHub serves as a canvas where I showcase my favourite projects stemming from immersive online courses. These projects emphasize fundamental computer science concepts and web development technologies. You'll find a selection of these projects listed below. 
 
