@@ -1,16 +1,42 @@
-### Hi there 👋
+# 👋 Hi there!
 
-<!--
-**melissaveraherbst/melissaveraherbst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer based in captivating Cape Town. My coding odyssey began during the initial months of the Covid pandemic, and since then, I've been entrenched in the world of web development and software engineering. Fuelled by countless cups of coffee and the more-often-than-not late-night debugging sessions, I've discovered an insatiable love for problem-solving and crafting digital applications.
 
-Here are some ideas to get you started:
+Beyond coding, I find solace in the realm of gaming 🎮 and share an equal adoration for our feline and canine companions 🐶🩵😺. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩🏼‍💻 My Expertise
+Within the wide breadth of the software industry, I chose to focus on web development because it's a ubiquitous, accessible, and powerful platform. I am not limiting myself to the world of web development alone, Database Administration and Design and Data Visualization have also peaked my interest. I currently specialize in the JavaScript programming language and have experience with the following technologies:
+
+Databases
+* PostgreSQL
+* MongoDB
+  
+Front-end:
+* JavaScript
+* React
+* Bootstrap
+
+Back-end:
+* Node.js
+* EJS
+* Express.js
+
+## 🏆 Projects
+This GitHub account primarily serves as a canvas where I showcase my favourite projects stemming from immersive online courses. These projects emphasize fundamental computer science concepts and web development technologies. You'll find a selection of these projects listed below. 
+
+### Web Developement Bootcamp
+* project name
+* project name
+* project name
+
+### Data Structures and Algorithms
+* project name
+* project name
+* project name
+
+### Course Name
+* project name
+* project name
+* project name
+
+
