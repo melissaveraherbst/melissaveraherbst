@@ -5,24 +5,18 @@ I'm a Full Stack Developer based in captivating Cape Town. My coding odyssey beg
 Beyond coding, I find solace in the realm of gaming 🎮 and share an equal adoration for our feline and canine companions 🐶🩵😺. 
 
 ## 👩🏼‍💻 My Expertise
-Within the wide breadth of the software industry, I chose to focus on web development because it's a ubiquitous, accessible, and powerful platform. I am not limiting myself to the world of web development alone, Database Administration and Design and Data Visualization have also peaked my interest. I currently specialize in the JavaScript programming language and have experience with the following technologies:
+Within the wide breadth of the software industry, I chose to focus on web development because it's a ubiquitous, accessible, and powerful platform. Additionally, Database Administration, Design, and Data Visualization have captured my interest. I currently specialize in the JavaScript programming language and have experience with the following technologies:
 
-Databases
-* PostgreSQL
-* MongoDB
-  
-Front-end:
-* JavaScript
-* React
-* Bootstrap
-
-Back-end:
-* Node.js
-* EJS
-* Express.js
+| Frontend        | Backend    | Database   |
+| --------------- | ---------- | ---------- |
+| JavaScript ES6+ | Node.js    | PostgreSQL |
+| React           | Express.js | MongoDB    |
+| HTML5           |            |            |
+| CSS3            |            |            |
+| Bootstrap       |            |
 
 ## 🏆 Projects
-This GitHub account primarily serves as a canvas where I showcase my favourite projects stemming from immersive online courses. These projects emphasize fundamental computer science concepts and web development technologies. You'll find a selection of these projects listed below. 
+My GitHub serves as a canvas where I showcase my favourite projects stemming from immersive online courses. These projects emphasize fundamental computer science concepts and web development technologies. You'll find a selection of these projects listed below. 
 
 ### Web Developement Bootcamp
 * project name
