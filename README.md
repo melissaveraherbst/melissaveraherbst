@@ -27,4 +27,11 @@ My GitHub serves as a canvas where I showcase my favourite projects stemming fro
 * project name
 * project name
 
+## 🎓 Curriculum
+See a full list of courses and certifications that are completed, that are still in progress and courses that are in queue via the curriculum link below.
+
+<details>
+<summary>Cool Dropdown</summary>
+blah blah blah blah you found me!
+</details>
 
