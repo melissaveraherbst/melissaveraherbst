@@ -12,7 +12,8 @@ Within the wide breadth of the software industry, I chose to focus on web develo
 ## 🏆 Projects
 My GitHub serves as a canvas where I showcase my favourite projects stemming from immersive online courses. These projects emphasize fundamental computer science concepts and web development technologies. You'll find a selection of these projects listed below. 
 
-### Web Developement Bootcamp
+### Web Developer Bootcamp
+
 * [Yelp Camp](https://github.com/melissaveraherbst/yelp-camp_camp-review-web-app)
 * project name
 * project name
@@ -31,7 +32,23 @@ My GitHub serves as a canvas where I showcase my favourite projects stemming fro
 See a full list of courses and certifications that are completed, that are still in progress and courses that are in queue via the curriculum link below.
 
 <details>
-<summary>Cool Dropdown</summary>
-blah blah blah blah you found me!
+<summary>Curriculum</summary>
+Note that many of the courses mentioned get regular updates (often yearly) to stay relevant. In some instances, like with "The Web Developer Bootcamp", it states that it is a 2024 course online, although I completed the course in 2021.
+<br><br>
+  
+| Completed | In Progress | Queued |
+| ----------------------------------------------------- | ---------------------------- | ----------------------------------------------- |
+| [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) | [Backend Engineer Career Path](https://www.codecademy.com/learn/paths/back-end-engineer-career-path) | [AWS Certified Cloud Practitioner Course CLF-C02](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/) | [comment]: # (END OF ROW 1)
+| [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) | | [Data Science Foundations](https://www.codecademy.com/learn/paths/data-science-foundations)| [comment]: # (END OF ROW 2)
+| [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) | | [Learn TypeScript](https://www.codecademy.com/learn/learn-typescript) | [comment]: # (END OF ROW 3)
+| [Building Interactive Websites](https://www.codecademy.com/learn/build-interactive-websites) | | | [comment]: # (END OF ROW 4)
+| Learn JavaScript                                      | | | [comment]: # (END OF LINE 5)
+| Learn Intermediate JavaScript                         | | | [comment]: # (END OF LINE 6)
+| Learn Asynchronous JavaScript                         | | | [comment]: # (END OF LINE 7)
+| How to Debug JavaScript Errors                        | | | [comment]: # (END OF LINE 8)
+| Learn Node.js                                         | | | [comment]: # (END OF LINE 9)
+| Learn React                                           | | | [comment]: # (END OF LINE 10)
+| Create a Front-end App with React                     | | | [comment]: # (END OF LINE 11)
+
 </details>
 
