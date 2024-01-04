@@ -41,7 +41,7 @@ Note that many of the courses mentioned get regular updates (often yearly) to st
 | [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) | [Backend Engineer Career Path](https://www.codecademy.com/learn/paths/back-end-engineer-career-path) | [AWS Certified Cloud Practitioner Course CLF-C02](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/) | [comment]: # (END OF ROW 1)
 | [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) | | [Data Science Foundations](https://www.codecademy.com/learn/paths/data-science-foundations)| [comment]: # (END OF ROW 2)
 | [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) | | [Learn TypeScript](https://www.codecademy.com/learn/learn-typescript) | [comment]: # (END OF ROW 3)
-| [Building Interactive Websites](https://www.codecademy.com/learn/build-interactive-websites) | | | [comment]: # (END OF ROW 4)
+| [Building Interactive Websites](https://www.codecademy.com/learn/build-interactive-websites) | | [Learn Go](https://www.codecademy.com/enrolled/courses/learn-go) | [comment]: # (END OF ROW 4)
 | [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) | | | [comment]: # (END OF LINE 5)
 | [Learn Intermediate JavaScript](https://www.codecademy.com/enrolled/courses/learn-intermediate-javascript) | | | [comment]: # (END OF LINE 6)
 | [Learn Node.js](https://www.codecademy.com/enrolled/courses/learn-node-js) | | | [comment]: # (END OF LINE 9)
