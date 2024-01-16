@@ -5,28 +5,24 @@ I'm a Full Stack Developer based in captivating Cape Town. My coding odyssey beg
 Beyond coding, I find solace in the realm of gaming 🎮 and share an equal adoration for our feline and canine companions 🐶🩵😺. 
 
 ## 👩🏼‍💻 My Expertise
-Within the wide breadth of the software industry, I chose to focus on web development because its  its ubiquity and power. Additionally, Database Administration & Design, and Data Visualization have captured my interest. I currently specialize in the JavaScript programming language.
+Within the wide breadth of the software industry, I chose to focus on web development as a starting point because of its ubiquity and power. Additionally, Database Administration/Design, and Data Visualization have captured my interest. I currently specialize in the JavaScript programming language.
 
 <div></div>
 
 ## 🏆 Projects
-My GitHub serves as a canvas where I showcase my favourite projects stemming from immersive online courses. These projects emphasize fundamental computer science concepts and web development technologies. You'll find a selection of these projects listed below. 
-
-### Web Developer Bootcamp
+My GitHub serves as a canvas where I store and showcase my favourite projects and course work stemming from immersive online courses. These projects and course material emphasize fundamental computer science concepts and web development technologies, including JavaScript front- and backend technolgies, SQL and NoSQL databases, and data structures and algorithms. To view a few of my repositories containing my work, refer to the list below. 
 
 * [Yelp Camp](https://github.com/melissaveraherbst/yelp-camp_camp-review-web-app)
-* project name
-* project name
-
-### Data Structures and Algorithms
-* project name
-* project name
-* project name
-
-### Course Name
-* project name
-* project name
-* project name
+  A capstone project that is by far my favourite and perhaps most complete full stack project so far. I have put a lot of effort into this project going above and beyond the scope of the project requirements.
+* Jammming
+* Budget Envelopes
+* Forkify
+* ...
+* ...
+* ...
+* ...
+* ...
+(currently being updated)
 
 ## 🎓 Curriculum
 See a full list of courses and certifications that are completed, that are still in progress and courses that are in queue via the curriculum link below.
