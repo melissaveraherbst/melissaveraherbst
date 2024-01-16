@@ -12,17 +12,16 @@ Within the wide breadth of the software industry, I chose to focus on web develo
 ## 🏆 Projects
 My GitHub serves as a canvas where I store and showcase my favourite projects and course work stemming from immersive online courses. These projects and course material emphasize fundamental computer science concepts and web development technologies, including JavaScript front- and backend technolgies, SQL and NoSQL databases, and data structures and algorithms. To view a few of my repositories containing my work, refer to the list below. 
 
-* [Yelp Camp](https://github.com/melissaveraherbst/yelp-camp_camp-review-web-app)
-  A capstone project that is by far my favourite and perhaps most complete full stack project so far. I have put a lot of effort into this project going above and beyond the scope of the project requirements.
-* Jammming
-* Budget Envelopes
-* Forkify
-* ...
-* ...
-* ...
-* ...
-* ...
-(currently being updated)
+* [Yelp Camp](https://github.com/melissaveraherbst/yelp-camp_camp-review-web-app)  
+A capstone project that is by far my favourite and perhaps most complete full stack project so far. I have put a lot of effort into this project going above and beyond the scope of the project requirements.
+* Jammming  
+Project summary ... (currently being updated)
+* Budget Envelopes  
+Project summary ... (currently being updated)
+* Forkify  
+Project summary ... (currently being updated)
+* Boss Machine  
+Project summary ... (currently being updated)
 
 ## 🎓 Curriculum
 See a full list of courses and certifications that are completed, that are still in progress and courses that are in queue via the curriculum link below.
