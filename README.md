@@ -14,21 +14,24 @@ My GitHub serves as a canvas where I store and showcase my favourite projects an
 
 * [Yelp Camp](https://github.com/melissaveraherbst/yelp-camp_camp-review-web-app)  
 A capstone project that is by far my favourite and perhaps most complete full stack project so far. I have put a lot of effort into this project going above and beyond the scope of the project requirements.
-* Jammming  
-Project summary ... (currently being updated)
 * Budget Envelopes  
 Project summary ... (currently being updated)
+* [Jammming](https://github.com/melissaveraherbst/jammming_spotify-playlist-manager)  
+A Spotify playlist manager
+* [Boss Machine](https://github.com/melissaveraherbst/boss-machine)  
+Manage your ‘minions’, your brilliant ‘million dollar ideas’, and all the annoying meetings that keep getting added to your busy schedule.
 * Forkify  
-Project summary ... (currently being updated)
-* Boss Machine  
 Project summary ... (currently being updated)
 
 ## 🎓 Curriculum
 See a full list of courses and certifications that are completed, that are still in progress and courses that are in queue via the curriculum link below.
 
 <details>
+
 <summary>Curriculum</summary>
+
 Note that many of the courses mentioned get regular updates (often yearly) to stay relevant. In some instances, like with "The Web Developer Bootcamp", it states that it is a 2024 course online, although I completed the course in 2021.
+
 <br><br>
   
 | Completed | In Progress | Queued |
