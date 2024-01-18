@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mel!
 
-I'm a Full Stack Developer based in captivating Cape Town. My coding odyssey began during the initial months of the Covid pandemic, and since then, I've been entrenched in the world of web development and software engineering. Fuelled by countless cups of coffee and the more-often-than-not late-night debugging sessions, I've discovered an insatiable love for problem-solving and crafting digital applications.
+I'm a Full Stack Developer based in captivating Cape Town, SA. My coding odyssey began during the initial months of the Covid pandemic, and since then, I've been entrenched in the world of web development and software engineering. Fuelled by countless cups of coffee and the more-often-than-not late-night debugging sessions, I've discovered an insatiable love for problem-solving and crafting digital applications.
 
 Beyond coding, I find solace in the realm of gaming 🎮 and share an equal adoration for our feline and canine companions 🐶🩵😺. 
 
