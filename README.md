@@ -7,8 +7,6 @@ Beyond coding, I find solace in the realm of gaming 🎮 and share an equal ador
 ## 👩🏼‍💻 My Expertise
 Within the wide breadth of the software industry, I chose to focus on web development as a starting point because of its ubiquity and power. Additionally, Database Administration/Design, and Data Visualization have captured my interest. I currently specialize in the JavaScript programming language.
 
-<div></div>
-
 ## 🏆 Projects
 My GitHub serves as a canvas where I store and showcase my favourite projects and course work stemming from immersive online courses. These projects and course material emphasize fundamental computer science concepts and web development technologies, including JavaScript front- and backend technolgies, SQL and NoSQL databases, and data structures and algorithms. To view a few of my repositories containing my work, refer to the list below. 
 
@@ -20,8 +18,8 @@ An API to manage a simple budget using a budget envelope strategy.
 A Spotify playlist manager.
 * [Boss Machine](https://github.com/melissaveraherbst/boss-machine)  
 Manage your ‘minions’, your brilliant ‘million dollar ideas’, and all the annoying meetings that keep getting added to your busy schedule.
-* Bankist  
-Project summary ... (currently being updated)
+* [Bankist](https://github.com/melissaveraherbst/bankist)  
+A Simulation of a virtual bank
 
 ## 🎓 Curriculum
 See a full list of courses and certifications that are completed, that are still in progress and courses that are in queue via the curriculum link below.
