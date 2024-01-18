@@ -12,10 +12,12 @@ My GitHub serves as a canvas where I store and showcase my favourite projects an
 
 * [Yelp Camp](https://github.com/melissaveraherbst/yelp-camp_camp-review-web-app)  
 A capstone project that is by far my favourite and perhaps most complete full stack project so far. I have put a lot of effort into this project going above and beyond the scope of the project requirements.
-* [Budget Envelopes API](https://github.com/melissaveraherbst/envelope-budget-api)  
-An API to manage a simple budget using a budget envelope strategy. 
+* [JavaScript Data Structures and Algorithms](https://github.com/melissaveraherbst/javascript-data-structures-and-algorithms/tree/main)  
+A collection of code and notes from the JavaScript DS&A Course on Udemy by Colt Steele
 * [Jammming](https://github.com/melissaveraherbst/jammming_spotify-playlist-manager)  
 A Spotify playlist manager.
+* [Budget Envelopes API](https://github.com/melissaveraherbst/envelope-budget-api)  
+An API to manage a simple budget using a budget envelope strategy. 
 * [Boss Machine](https://github.com/melissaveraherbst/boss-machine)  
 Manage your ‘minions’, your brilliant ‘million dollar ideas’, and all the annoying meetings that keep getting added to your busy schedule.
 * [Bankist](https://github.com/melissaveraherbst/bankist)  
