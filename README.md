@@ -11,6 +11,7 @@ Within the wide breadth of the software industry, I chose to focus on web develo
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-%2361DAFB?style=flat-square&logo=javascript&logoColor=%23F7DF1E&labelColor=%230D1017&color=%230D1017)
 ![Static Badge](https://img.shields.io/badge/TypeScript-%230D1017?style=flat-square&logo=typescript&logoColor=%233178C6&labelColor=%230D1017&color=%230D1017)
+![Static Badge](https://img.shields.io/badge/Python-%2361DAFB?style=flat-square&logo=python&logoColor=%23F7DF1E&labelColor=%230D1017&color=%230D1017)
 
 **Front-end**
 
