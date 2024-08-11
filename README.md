@@ -19,6 +19,7 @@ Within the wide breadth of the software industry, I chose to focus on web develo
 ![Static Badge](https://img.shields.io/badge/CSS3-%230D1017?style=flat-square&logo=css3&logoColor=%231572B6&labelColor=%230D1017&color=%230D1017)
 ![Static Badge](https://img.shields.io/badge/Bootstrap%205-%231D1721?style=flat-square&logo=bootstrap&logoColor=%237952B3&labelColor=%230D1017&color=%230D1017)
 ![Static Badge](https://img.shields.io/badge/React-%230D1017?style=flat-square&logo=react&logoColor=%2361DAFB&labelColor=%230D1017&color=%230D1017)
+![Static Badge](https://img.shields.io/badge/Angular-%230D1017?style=flat-square&logo=angular&logoColor=%2361DAFB&labelColor=%230D1017&color=%230D1017)
 
 **Back-end**
 
