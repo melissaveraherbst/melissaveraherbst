@@ -61,6 +61,9 @@ Manage your ‘minions’, your brilliant ‘million dollar ideas’, and all th
 * [Bankist](https://github.com/melissaveraherbst/bankist)  
 A Simulation of a virtual bank
 
+## 🎓 Currently Learning
+I'm currently focused on courses and certifications aimed at Agile Project Management and Scrum Master roles. I'm passionate about improving team collaboration, streamlining processes, and delivering high-quality products.
+
 ## 🫱🏼‍🫲🏻 Get in Touch
 
 Feel free to reach out to me through LinkedIn or Email. I'm always open to connecting with like-minded professionals and exploring new opportunities.
