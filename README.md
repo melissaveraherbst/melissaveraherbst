@@ -4,36 +4,32 @@ I started my career in the financial industry, where I gained extensive experien
 
 ## 💼 Skills & Experience
 
-![Static Badge](https://img.shields.io/badge/%20-%2361DAFB?style=flat-square&logo=python&logoColor=%235794FF&labelColor=%230D1017&color=%230D1017)
-![Static Badge](https://img.shields.io/badge/%20-%2361DAFB?style=flat-square&logo=nodedotjs&logoColor=%235794FF&labelColor=%230D1017&color=%230D1017)
-![Static Badge](https://img.shields.io/badge/%20-%2361DAFB?style=flat-square&logo=express&logoColor=%235794FF&labelColor=%230D1017&color=%230D1017)
-![Static Badge](https://img.shields.io/badge/%20-%2361DAFB?style=flat-square&logo=fastapi&logoColor=%235794FF&labelColor=%230D1017&color=%230D1017)
-![Static Badge](https://img.shields.io/badge/%20-%2361DAFB?style=flat-square&logo=mongodb&logoColor=%235794FF&labelColor=%230D1017&color=%230D1017)
-![Static Badge](https://img.shields.io/badge/%20-%2361DAFB?style=flat-square&logo=mongoose&logoColor=%235794FF&labelColor=%230D1017&color=%230D1017)
-![Static Badge](https://img.shields.io/badge/%20-%2361DAFB?style=flat-square&logo=postgresql&logoColor=%235794FF&labelColor=%230D1017&color=%230D1017)
-![Static Badge](https://img.shields.io/badge/%20-%2361DAFB?style=flat-square&logo=studio3t&logoColor=%235794FF&labelColor=%230D1017&color=%230D1017)
-![Static Badge](https://img.shields.io/badge/%20-%2361DAFB?style=flat-square&logo=n8n&logoColor=%235794FF&labelColor=%230D1017&color=%230D1017)
-![Static Badge](https://img.shields.io/badge/%20-%2361DAFB?style=flat-square&logo=docker&logoColor=%235794FF&labelColor=%230D1017&color=%230D1017)
-![Static Badge](https://img.shields.io/badge/%20-%2361DAFB?style=flat-square&logo=html5&logoColor=%235794FF&labelColor=%230D1017&color=%230D1017)
-![Static Badge](https://img.shields.io/badge/%20-%2361DAFB?style=flat-square&logo=css3&logoColor=%235794FF&labelColor=%230D1017&color=%230D1017)
-![Static Badge](https://img.shields.io/badge/%20-%2361DAFB?style=flat-square&logo=javascript&logoColor=%235794FF&labelColor=%230D1017&color=%230D1017)
-![Static Badge](https://img.shields.io/badge/%20-%2361DAFB?style=flat-square&logo=typescript&logoColor=%235794FF&labelColor=%230D1017&color=%230D1017)
-![Static Badge](https://img.shields.io/badge/%20-%2361DAFB?style=flat-square&logo=angular&logoColor=%235794FF&labelColor=%230D1017&color=%230D1017)
-![Static Badge](https://img.shields.io/badge/%20-%2361DAFB?style=flat-square&logo=ngrx&logoColor=%235794FF&labelColor=%230D1017&color=%230D1017)
-![Static Badge](https://img.shields.io/badge/%20-%2361DAFB?style=flat-square&logo=bootstrap&logoColor=%235794FF&labelColor=%230D1017&color=%230D1017)
-![Static Badge](https://img.shields.io/badge/%20-%2361DAFB?style=flat-square&logo=github&logoColor=%235794FF&labelColor=%230D1017&color=%230D1017)
-![Static Badge](https://img.shields.io/badge/%20-%2361DAFB?style=flat-square&logo=jira&logoColor=%235794FF&labelColor=%230D1017&color=%230D1017)
-![Static Badge](https://img.shields.io/badge/%20-%2361DAFB?style=flat-square&logo=postman&logoColor=%235794FF&labelColor=%230D1017&color=%230D1017)
+**Languages & Frameworks**   
+  Python (3.12), Node.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Bootstrap 5   
+  
+**Databases & ORMs**    
+  MongoDB, Mongoose, PostgreSQL
+  
+**API Development**   
+FastAPI, Express.js
 
-Languages & Frameworks: Python (3.12), Node.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Bootstrap 5
-Databases & ORMs: MongoDB, Mongoose, PostgreSQL
-API Development: FastAPI, Express.js
-Frontend Development: Angular, NgRx
-Microservices & Deployment: Docker
-Project Management: Agile Methodologies (learning), Scrum Master (courses in progress)
-API Design & Tools: Swagger, NSwag
-Data Automation (n8n): Webhooks, HTTP Requests, Data Normalization/Mapping, CRM Integration (Directus, Monday.com)
-Development Tools: Git, GitHub, Postman, Jira, Studio 3T
+**Frontend Development**   
+Angular, NgRx
+
+**Microservices & Deployment**   
+Docker
+
+**Project Management**   
+Agile Methodologies (learning), Scrum Master (courses in progress)
+
+**API Design & Tools**   
+Swagger, NSwag
+
+**Data Automation (n8n)**   
+Webhooks, HTTP Requests, Data Normalization/Mapping, CRM Integration (Directus, Monday.com)
+
+**Development Tools**   
+Git, GitHub, Postman, Jira, Studio 3T
 
 ## 🏆 Projects
 My GitHub serves as a canvas where I store and showcase my favourite projects and course work stemming from immersive online courses. These projects and course material emphasize fundamental computer science concepts and web development technologies, including JavaScript frontand backend technolgies, SQL and NoSQL databases, and data structures and algorithms. 
