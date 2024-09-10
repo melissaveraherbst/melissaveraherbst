@@ -20,7 +20,7 @@ Angular, NgRx
 Docker
 
 **Project Management**   
-Agile Methodologies (learning), Scrum Master (courses in progress)
+Agile Methodologies, Scrum Master (courses in progress)
 
 **API Design & Tools**   
 Swagger, NSwag
