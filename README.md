@@ -4,6 +4,8 @@ I started my career in the financial industry, where I gained extensive experien
 
 ## 💼 Skills & Experience
 
+### Technical Skills
+
 **Languages & Frameworks**   
   Python (3.12), Node.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Bootstrap 5   
   
@@ -30,6 +32,23 @@ Webhooks, HTTP Requests, Data Normalization/Mapping, CRM Integration (Directus, 
 
 **Development Tools**   
 Git, GitHub, Postman, Jira, Studio 3T
+
+### Soft Skills
+
+A combination of skills I've acquired working in the finance and software development sectors:
+
+- Adaptability
+- Analytical Skills
+- Attention to Detail
+- Communication
+- Critical Thinking
+- Data Analysis
+- Leadership
+- Organizational Skills
+- Problem-solving
+- Risk Management
+- Teamwork
+- Time Management
 
 ## 🏆 Projects
 My GitHub serves as a canvas where I store and showcase my favourite projects and course work stemming from immersive online courses. These projects and course material emphasize fundamental computer science concepts and web development technologies, including JavaScript frontand backend technolgies, SQL and NoSQL databases, and data structures and algorithms. 
